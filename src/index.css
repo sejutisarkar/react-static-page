@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#main{
+  padding: 200px;
+
+}
+#top{
+  color:black;
+}
+#btn1{
+  float: left;
+}
+
+#s{
+padding-top:50px;
+
+margin:0 auto;
+height:470px;
+flex-flow: column wrap;
+
+}
+#firstmost{
+width:800px;
+
+}
+#first{
+  margin-left:0;
+}
+#second{
+margin-right:50 px;
+float:left;
+
+display:inline-block;
+}
+
+#new{
+  padding-right:50px;
+  padding-top: 200px;
+  padding-left:30px;
+}
+#secondrow{
+  padding-top:50px;
+  margin:0 auto;
+  height:470px;
+}
+#e{
+  padding-top:100px;
+  padding-left:30px;
+}
+#fifth
+{
+width:380px;
+}
